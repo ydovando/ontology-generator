@@ -32,3 +32,6 @@ Converted `csv` files to `rdf` using [Jena API](https://jena.apache.org/).
 - Converted rdf files are [here](ontologygenerator/rdf/ "directory with rdf files")
 - dataset venn diagram
   ![dataset venn diagram](docs/assets/dataset-venn-diagram.jpeg)
+
+## Original Project
+https://github.com/sellabae/571-semantic-web
